@@ -11,6 +11,7 @@ faster-whisper = "*"
 ffmpeg-python = "*"
 python-multipart = "*"
 ctranslate2 = "*"
+dataclasses-json = "*"
 
 [dev-packages]
 
